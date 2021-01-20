@@ -46,4 +46,5 @@ Installed gh-pages and add deploy to scripts in package.json
 
 Ran npm run deploy
 
+Deployed at https://sbergman98.github.io/Employee_Directory_01_05_21/
 

@@ -40,3 +40,10 @@ Added gender and location seatch code to DieTryng
 
 Ran more test. App filtered correctly.
 
+Add homepage to package.json
+
+Installed gh-pages and add deploy to scripts in package.json
+
+Ran npm run deploy
+
+

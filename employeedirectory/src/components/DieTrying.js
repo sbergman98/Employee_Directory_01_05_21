@@ -2,6 +2,7 @@ import { Component } from "react";
 import SearchForm from "./SearchForm";
 import API from "../utils/API";
 import EmployeeDetails from "./EmployeeDetails";
+import KORD from "../images/kord_industries_logo.PNG";
 
 
 
@@ -90,7 +91,7 @@ class DieTrying extends Component {
 
       <div className="App">
         <header className="App-header" >
-          <img alt='KORD' style={{ width: "439", height: "183" }} src='./kord_industries_logo.PNG' />
+          <img alt='KORD' style={{ width: "439", height: "183" }} src={KORD}/>
           <br></br><br></br>
           <p>
             Welcome, Click Below to Find Emloyees<br></br>

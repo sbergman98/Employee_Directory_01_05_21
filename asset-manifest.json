@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Employee_Directory_01_05_21/static/css/main.a0f92c83.chunk.css",
+    "main.js": "/Employee_Directory_01_05_21/static/js/main.81083c02.chunk.js",
+    "main.js.map": "/Employee_Directory_01_05_21/static/js/main.81083c02.chunk.js.map",
+    "runtime-main.js": "/Employee_Directory_01_05_21/static/js/runtime-main.ac2deb5c.js",
+    "runtime-main.js.map": "/Employee_Directory_01_05_21/static/js/runtime-main.ac2deb5c.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Employee_Directory_01_05_21/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.4f7f91f3.chunk.js": "/Employee_Directory_01_05_21/static/js/2.4f7f91f3.chunk.js",
+    "static/js/2.4f7f91f3.chunk.js.map": "/Employee_Directory_01_05_21/static/js/2.4f7f91f3.chunk.js.map",
+    "static/js/3.b54a72db.chunk.js": "/Employee_Directory_01_05_21/static/js/3.b54a72db.chunk.js",
+    "static/js/3.b54a72db.chunk.js.map": "/Employee_Directory_01_05_21/static/js/3.b54a72db.chunk.js.map",
+    "index.html": "/Employee_Directory_01_05_21/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Employee_Directory_01_05_21/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.a0f92c83.chunk.css.map": "/Employee_Directory_01_05_21/static/css/main.a0f92c83.chunk.css.map",
+    "static/js/2.4f7f91f3.chunk.js.LICENSE.txt": "/Employee_Directory_01_05_21/static/js/2.4f7f91f3.chunk.js.LICENSE.txt",
+    "static/media/kord_industries_logo.c58b17ff.PNG": "/Employee_Directory_01_05_21/static/media/kord_industries_logo.c58b17ff.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac2deb5c.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.4f7f91f3.chunk.js",
+    "static/css/main.a0f92c83.chunk.css",
+    "static/js/main.81083c02.chunk.js"
+  ]
+}
